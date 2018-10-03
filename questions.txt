@@ -1,0 +1,500 @@
+﻿How many squares are on a chess board?
+64
+12
+32
+72
+Who won eight gold medals in men’s swimming in Beijing Olympics 2008?
+Michael Phelps
+Larsen Jensen
+Ryan Lochte
+Park Taehwan
+Who won gold medals in women’s 100m and 200m in Athens Olympics 2004?
+Marion Jones
+Lorainne Graham
+Tanya Lawrence
+Cathy Freeman
+Which was the opening date of Athens Olympics 2004?
+13 August 2004
+15 May 2004
+15 September 2004
+14 July 2004
+Where was Football World Cup 2014 held?
+Brazil
+Japan
+Germany
+France
+Who won Football World Cup 2014?
+Germany
+Algeria
+Argentina
+USA
+Who established Tour de France?
+Henri Desgrange
+William Penny Brookes
+Ottavio Bottecchia
+Pierre de Fredy
+Which two countries marched under one flag in Sydney Olympics 2000?
+North Korea and South Korea
+India and Pakistan
+Germany and Italy
+Portugal and Spain
+What is the motto of Olympics?
+Citius, Altius, Fortius
+Veni, Vedi, Veci
+Semper idem
+Cogito ergo sum
+Where is the Olympic torch lit?
+Olympia
+IOC Headquarters
+Buckingham Palace
+White House
+What are the colours of Olympic rings?
+Blue, yellow, black, green, and red
+Violet, indigo, orange, purple and scarlet
+Sky blue and navy blue
+Gold, white and crimson
+Who won women’s singles championship in Wimbledon 2016?
+Serena Williams
+Elena Vesnina
+Anastasia Pavlyuchenkova
+Svetlana Kuznetsova
+Who established the Olympic Charter?
+Pierre de Coubertin
+Pierre Trudeau
+Jesse Owens
+Edwin Moses
+Where was Football Euro Cup 2012 held?
+Poland, Ukraine
+Italy
+Austria
+Ireland, Iceland
+Who was England’s captain in Football Euro Cup 2012?
+Steven Gerrard
+Roy Hodgson
+Joe Hart
+Matthew Upson
+Where was Football World Cup 2010 held?
+South Africa
+Italy
+Mexico
+USA
+Who of the following players did not score any goal in Football World Cup 2010?
+Lionel Messi
+Cristiano Ronaldo
+Miroslav Klose
+Thomas Mueller
+Who won Golden Ball in Football World Cup 2010?
+Diego Forlan
+Arjen Robben
+Philipp Lahm
+Robin Van Persie
+Who of the following did not score a goal for Greece during penalty shootout against Costa Rica in Football World Cup 2014?
+Theofanis Gekas
+Konstantinos Mitroglou
+Lazaros Christodoulopoulos
+Jose Holebas
+What is number of white pawns in chess?
+8
+2
+6
+4
+What is the meaning of Australia?
+South land
+East land
+West land
+North land
+How many stars are in the flag of USA?
+50
+20
+60
+75
+Which of the following rivers flows in Brazil?
+Amazon
+Nile
+Mississippi
+Cauvery
+Which is the capital of Azerbaijan?
+Baku
+Sumqayit
+Ganca
+Dax
+Which is the official language of Congo?
+French
+Berber
+Arabic
+Zulu
+Which country is to the west of Czech Republic?
+Germany
+Estonia
+Italy
+Spain
+Which city is famous for pyramids?
+Giza
+Alexandria
+Cairo
+Tripoli
+When did East Germany and West Germany unite?
+1990
+1986
+1994
+2000
+Which is the traditional date of Greek independence?
+25 March 1821
+29 June 1912
+21 August 1915
+28 November 1945
+When did Cyprus come under British administration?
+1878
+1763
+1815
+1756
+Who was the king of Greece in 1922-1924 and 1935-1947?
+George II
+Paul
+Otto
+Constantine II
+Which is the national animal of India?
+Tiger
+Deer
+Cow
+Elephant
+When was European Economic Community formed?
+25 March 1957
+10 May 1945
+23 August 1949
+30 December 1955
+How many countries were admitted to European Union in 2004?
+10
+12
+18
+23
+How was France known?
+Gaul
+Sverige
+Cymru
+Britannia
+France is famous for which structure?
+Eiffel Tower
+Leaning Tower of Pisa
+Petronas Towers
+Westminster Abbey
+Which two countries are surrounded on all sides by Italy?
+Vatican and San Marino
+Monaco and Andorra
+Gibraltar and Andorra
+Luxembourg and Monaco
+Which star appears on the flag of Israel?
+Star of David
+Star of the Orient
+Star of Bethlehem
+Morning Star
+Which city is considered Third Rome?
+Moscow
+St. Petersburg
+Kiev
+Yekaterinburg
+Which of the following is not a co-official language in Spain?
+Frisian
+Catalan
+Basque
+Galician
+Which is the largest fish?
+Whale shark
+Lemon shark
+Blue whale
+Great white shark
+Which sense of tiger is most highly developed?
+Hearing
+Taste
+Smell
+Sight
+What did Sigmund Freud found?
+Psychoanalysis
+Geometry
+Botany
+Archaeology
+Who was Nikola Tesla’s first employer in New York?
+Thomas Alva Edison
+Robert Lane
+Benjamin Vale
+John Pierpont Morgan
+When was Pluto discovered?
+1930
+1900
+1850
+1630
+What is the number of rings of Saturn?
+Seven
+Three
+Six
+Four
+When did Neil Armstrong land on the moon?
+20 July 1969
+16 October 1967
+15 November 1968
+26 March 1972
+How is Mars sometimes referred to?
+Red Planet
+Green Planet
+Blue Planet
+Yellow Planet
+When did Isaac Newton publish Philosophiae Naturalis Principia Mathematica?
+1687
+1685
+1680
+1660
+For what did Jack Kilby win Nobel Prize for Physics?
+Development of integrated circuit
+Discovery of neutrino
+Identifying binary pulsars
+Discovery of quarks
+Which is Joseph Edward Murray’s autobiography?
+Surgery of the Soul
+Amazing Grace
+Darkness of the Soul
+I Have Overcome
+What was the code name for USA’s research work for atomic bomb?
+Manhattan Project
+Operation Red Rose
+Operation Black Thunder
+Arizona Project
+What is the total number of teeth of an elephant?
+24
+16
+12
+32
+What was the mission of Apollo 11?
+Perform a manned lunar landing and return
+Dig for gold
+Conquer the moon for USA
+Build homes on the moon
+Antarctica has two meanings. One is ‘Opposite to the Arctic’. Which is the second meaning?
+Opposite to the north
+Opposite to the east
+Opposite to the south
+Opposite to the west
+When did Albert Einstein win Nobel Prize for Physics?
+1921
+1928
+1922
+1926
+Which eagle preys on sloths and monkeys?
+Harpy eagle
+Sea eagle
+Caucasian eagle
+Serpent eagle
+Which dogs are used for hunting?
+Hounds
+Huskies
+Terriers
+Collies
+Where was the Theory of Evolution debated on 30 June 1960?
+Oxford University
+Buckingham Palace
+Louvre Museum
+Versailles Palace
+How many inventions were patented by Thomas Alva Edison?
+1093
+997
+500
+1100
+Which was Bruce Lee’s first film in a major role?
+The Big Boss
+The Game of Death
+Return of the Dragon
+Way of the Dragon
+When was Dracula starring Christopher Lee released?
+1958
+1952
+1946
+1948
+Who acted the character of Superman in the films Superman, Superman I, Superman II, Superman III and Superman IV: The Quest for Peace?
+Christopher Reeve
+Sylvester Stallone
+Arnold Schwarzenegger
+Kurt Russell
+Which was Marlon Brando’s first film as an actor?
+The Men
+A Flag is Born
+Candida
+Guys and Dolls
+For which film did Marilyn Monroe get Golden Globe Award for Best Actress in a Comedy?
+Some Like it Hot
+Gentlemen Prefer Blondes
+Bus Stop
+The Prince and the Showgirl
+What was Marlon Brando’s role in The Godfather?
+Vito Corleone
+Stanley Kowalski
+Kal El
+Michael Corleone
+What was Eli Wallach’s role in The Good, The Bad and The Ugly?
+Tuco
+Mr. Freeze
+Don Altobello
+Arthur Abbot
+Who won the Golden Globe Award for Best Director for films of 2008?
+Danny Boyle
+Steven Spielberg
+James Cameron
+Conrad Rooks
+Who answers all the questions correctly in the gameshow Kaun Banega Karordpati in Slumdog Millionaire?
+Jamal Malik
+Javed Khan
+Salim Malik
+Sohail Khan
+Who was Patrick Swayze’s co-star in Dirty Dancing?
+Jennifer Grey
+Jennifer Lopez
+Jennifer Love Hewitt
+Jodie Foster
+For which film did Elizabeth Taylor get her first Academy Award for Best Actress?
+Butterfield 8
+The Last Time I Saw Paris
+Flintstones
+Raintree County
+In which film it is said, “Some dreams come true. Some don’t. Keep on dreaming."?
+Pretty Woman
+Autumn in New York
+Basic Instinct
+The Runaway Bride
+What was Judy Garland’s role in The Wizard of Oz?
+Dorothy
+Jane
+Glinda
+Matilda
+In which film Alec Guinness played Professor Godbole?
+A Passage to India
+Fall of the Roman Empire
+To Paris with Love
+Eskimo Day
+In Harry Potter, who plays Hagrid in the movie?
+Robbie Coltrane
+John Cleese
+John Coltrane
+Robert DeNiro
+What was the name of the island on which King Kong was discovered in the original 1933 movie?
+Skull Island
+Borneo
+Monster Island
+Ape Island
+In the movie Who Framed Roger Rabbit, which pair of genetically similar characters perform a piano duet?
+Donald Duck and Daffy Duck
+Bambi and Bullwinkle
+Garfield and Sylvester
+Speedy Gonzales and Minnie Mouse
+George Clooney and this director have worked together on amazing films such as "Out of Sight", "Solaris" and the great " Ocean's 11". Who is it?
+Steven Soderbergh
+Robert Rodriguez
+Fred Miller
+Quentin Tarantino
+Which film features the famous quote "Say hello to my little friend"?
+Scarface
+The Godfather
+Goodfellas
+Raging Bull
+Which of the following films was not a sequel?
+Analyze This
+Aliens
+The Dark Knight
+Hannibal
+Which painting of Henri Rousseau was exhibited at Salon d’Automne in 1905?
+The Hungry Lion
+Judah and Tamar
+The Sleeping Beauty
+Yadivigha’s Dream
+Where was Leonardo da Vinci born?
+Vinci
+Genoa
+Venice
+Milan
+Which painting of Leonardo da Vinci is also known as La Gioconda?
+Mona Lisa
+The Last Supper
+The Adoration of the Magi
+Benois Madonna
+When did Raphael decorate Stanza della Segnatura?
+1508-1511
+1517-1520
+1514-1517
+1504-1507
+What was Harry Houdini’s original name?
+Reginald Scot
+Erik Weisz
+Harry Kellar
+Jean Prevost
+Which painting did Claude Monet repeat many times?
+Water Lilies
+Under the Birches, Evening
+Scream
+The Duck Pond
+What influenced Vincent Van Gogh’s style of painting?
+Impressionism
+Expressionism
+Phenomenalism
+Existentialism
+What were Vincent Van Gogh’s last words?
+The sadness will last forever.
+The end is near.
+I return to my home.
+Holidays have come.
+Where was Max Weber born?
+Bialystok
+Moscow
+Volgograd
+Sochi
+Which Edvard Munch painting shows love’s blossoming?
+The Kiss
+The Sick Child
+Ashes
+Jealousy
+Which was Henri de Toulouse-Lautrec’s first poster?
+Moulin Rouge – La Goulue
+La Boheme
+La Blanchisseuse
+Mirliton
+What was Wolfgang Amadeus Mozart’s baptismal name?
+Johannes Chrysostomus Wolfgangus Theophilus Mozart
+Amadeus Mozart
+Petrus Mozart
+Wolfgang Mozart
+Where did Johann Sebastian Bach play before Frederick II?
+Potsdam
+Hamburg
+Dresden
+Vienna
+What was Elvis Presley’s middle name?
+Aaron
+Moses
+Joshua
+Caleb
+Where did Elvis Presley die?
+Memphis
+Vancouver
+Berlin
+Los Angeles
+Which of the following novels in Emile Zola’s Les Quatres Evangiles series remained incomplete?
+Justice
+Fecondite
+Travail
+Verite
+Which novel is based on Fyodor Dostoevsky’s life in a Siberian prison?
+The House of the Dead
+The Idiot
+Notes from the Underground
+The Eternal Husband
+When did Pablo Neruda get Nobel Prize for Literature?
+1971
+1969
+1975
+1978
+Who is the main character in Les Miserables?
+Jean Valjean
+Javert
+Myriel
+Marius
+Which is the last play written by William Shakespeare?
+The Tempest
+Two Gentlemen from Verona
+Henry V
+As you like it

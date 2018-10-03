@@ -1,0 +1,500 @@
+﻿Πόσα τετραγωνάκια υπάρχουν σε μία σκακιέρα;
+64
+12
+32
+72
+Ποιός αθλητής κέρδισε 8 χρυσά μετάλλια στην κολύμβηση ανδρών στους Ολυμπιακούς Αγώνες του Πεκίνου το 2008;
+Michael Phelps
+Larsen Jensen
+Ryan Lochte
+Park Taehwan
+Ποιά αθλήτρια κέρδισε χρυσά μετάλλια στα 100m και 200m γυναικών στους Ολυμπιακούς Αγώνες της Αθήνας το 2004;
+Marion Jones
+Lorainne Graham
+Tanya Lawrence
+Cathy Freeman
+Ποιά ήταν η ημερομηνία έναρξης των Ολυμπιακών Αγώνων της Αθήνας το 2004;
+13 Αυγούστου 2004
+15 Μαίου 2004
+15 Σεπτεμβρίου 2004
+14 Ιουλίου 2004
+Πού φιλοξενήθηκε το Παγκόσμιο Κύπελλο Ποδοσφαίρου το 2014;
+Βραζιλία
+Ιαπωνία
+Γερμανία
+Γαλλία
+Ποιά χώρα κέρδισε το Παγκόσμιο Κύπελλο Ποδοσφαίρου το 2014;
+Γερμανία
+Αλγερία
+Αργεντινή
+ΗΠΑ
+Ποιός καθιέρωσε το Tour de France;
+Henri Desgrange
+William Penny Brookes
+Ottavio Bottecchia
+Pierre de Fredy
+Ποιές δύο χωρες παρέλασαν κάτω από μία σημαία στους Ολυμπιακούς Αγώνες του Σίδνεϊ το 2000;
+Βόρεια Κορέα και Νότια Κορέα
+Ινδία και Πακιστάν
+Γερμανία και Ιταλία
+Πορτογαλία και Ισπανία
+Ποιό είναι το μότο των Ολυμπιακών Αγώνων;
+Citius, Altius, Fortius
+Veni, Vedi, Veci
+Semper idem
+Cogito ergo sum
+Πού ανάβει η Ολυμπιακή Φλόγα;
+Ολυμπία
+Κεντρικά της Διεθνούς Ολυμπιακής Επιτροπής
+Παλάτι του Μπάκιγχαμ
+Λευκό Οίκο
+Ποιά είναι τα χρώματα των ολυμπιακών δακτυλίων;
+μπλε, κίτρινο, μαύρο, πράσινο και κόκκινο
+βιολετί, λουκακί, πορτοκαλί, μοβ και πορφυρό
+καταγάλανο και βαθύ γαλάζιο
+χρυσό, άσπρο and πορφυρό
+Ποιά αθλήτρια κέρδισε το ατομικό πρωτάθλημα γυναικών στο Wibledon το 2016;
+Serena Williams
+Elena Vesnina
+Anastasia Pavlyuchenkova
+Svetlana Kuznetsova
+Ποιός θέσπισε την Ολυμπιακή Χάρτα;
+Pierre de Coubertin
+Pierre Trudeau
+Jesse Owens
+Edwin Moses
+Πού φιλοξενήθηκε το Ευρωπαικό Κύπελλο Ποδοσφαίρου το 2012;
+Πολωνία και Ουκρανία
+Ιταλία
+Αυστρία
+Ιρλανδία, Ισλανδία
+Ποιός ήταν ο αρχηγός της εθνικής Αγγλίας στο Ευρωπαικό Κύπελλο Ποδοσφαίρου το 2012;
+Steven Gerrard
+Roy Hodgson
+Joe Hart
+Matthew Upson
+Πού φιλοξενήθηκε το Παγκόσμιο Κύπελλο Ποδοσφαίρου το 2010;
+Νότια Αφρική
+Ιταλία
+Μεξικό
+ΗΠΑ
+Ποιός από τους παρακάτω παίκτες δεν έβαλαν κανένα γκολ στο Παγκόσμιο Κύπελλο Ποδοσφαίρου το 2010;
+Lionel Messi
+Cristiano Ronaldo
+Miroslav Klose
+Thomas Mueller
+Ποιός κέρδισε την Χρυσή Μπάλα στο Παγκόσμιο Κύπελλο Ποδοσφαίρου το 2010;
+Diego Forlan
+Arjen Robben
+Philipp Lahm
+Robin Van Persie
+Ποιός από τους παρακάτω δεν έβαλε γκολ για την Ελλάδα στα πέναλτι απέναντι στην Κόστα Ρίκα στο Παγκόσμιο Κύπελλο Ποδοσφαίρου το 2014;
+Θεοφάνης Γκέκας
+Κωσταντίνος Μίτρογλου
+Λάζαρος Χριστοδουλόπουλος
+Χοσέ Χολέβας
+Ποιός είναι ο αριθμός των λευκών στρατιωτών στο σκάκι;
+8
+2
+6
+4
+Ποιά είναι η σημασία της Αυστραλίας;
+Νότια γη
+Ανατολική γη
+Δυτική γη
+Βόρεια γη
+Πόσα αστέρια υπάρχουν στην σημαία των ΗΠΑ;
+50
+20
+60
+75
+Ποιός από τους παρακάτω ποταμούς κυλούν στην Βραζιλία;
+Αμαζόνιος
+Νείλος
+Μισισιπής
+Κάβερι
+Ποιά είναι η πρωτεύουσα του Αζερμπαϊτζάν;
+Baku
+Sumqayit
+Ganca
+Dax
+Ποιά είναι η επίσημη γλώσσα του Κονγκό;
+Γαλλικά
+Βερβερικά
+Αραβικά
+Ζουλού
+Ποιά χώρα είναι στα δυτικά της Τσεχίας;
+Γερμανία
+Εσθονία
+Ιταλία
+Ισπανία
+Ποιά πόλη είναι διάσημη για τις Πυραμίδες της;
+Γκίζα
+Αλεξάνδρια
+Κάιρο
+Τρίπολη
+Πότε ενώθηκαν η δυτική και η ανατολική Γερμανία;
+1990
+1986
+1994
+2000
+Ποιά είναι η ημερομηνία της ελληνικής επανάστασης;
+25 Μαρτίου 1821
+29 Ιουνίου 1912
+21 Αυγούστου 1915
+28 Νοεμβρίου 1945
+Πότε η Κύπρος ήρθε υπό βρετανική διοίκηση;
+1878
+1763
+1815
+1756
+Ποιός ήταν ο Βασιλιάς της Ελλάδας στα 1922-1924 και 1935-1947;
+Γεώργιος ΙΙ
+Παύλος
+Όθων
+Κωσταντίνος ΙΙ
+Ποιό είναι το εθνικό ζώο της Ινδίας;
+Τίγρη
+Ελάφι
+Αγελάδα
+Ελέφαντας
+Πότε σχηματίστηκε η Ευρωπαϊκή Οικονομική Κοινότητα;
+25 Μαρτίου 1957
+10 Μαΐου 1945
+23 Αυγούστου 1949
+30 Δεκεμβρίου 1955
+Πόσες χώρες είχαν εισαχθεί στην Ευρωπαική Ένωση το 2004;
+10
+12
+18
+23
+Πώς ήταν γνωστή η Γαλλία;
+Gaul
+Sverige
+Cymru
+Britannia
+Η Γαλλία είναι διάσημη για ποιό κτήριο;
+Πύργος του Άιφελ
+Κεκλιμένος πύργος της Πίζας
+Πύργοι Πετρόνας
+Αββαείο του Ουέστμινστερ
+Ποιές δύο χώρες περιβάλλουν από όλες τις πλευρές την Ιταλία;
+Βατικανό και Σαν Μαρίνο
+Μονακό και Ανδόρα
+Γιβραλτάρ και Ανδόρα
+Λουξεμβούργο και Μονακό
+Ποιό αστέρι εμφανίζεται στην σημαία του Ισραήλ;
+Αστέρι του Δαβίδ
+Αστέρι της Ανατολής
+Αστέρι της Βηθλεέμ
+Αυγερινός
+Ποιά πόλη θεωρείται τρίτη Ρώμη;
+Μόσχα
+Αγία Πετρούπολη
+Κίεβο
+Γεκατερίνμπουργκ
+Ποιά από τις παρακάτω δεν είναι συνεπίσημη γλώσσα της Ισπανίας;
+Φριζιανά
+Καταλανικά
+Βάσκικα
+Γαλικιανά
+Ποιό είναι το μεγαλύτερο ψάρι;
+Φαλαινοκαρχαρίας
+Κίτρινος Καρχαρίας
+Γαλάζια Φάλαινα
+Λευκός Καρχαρίας
+Ποιά από τις αισθήσεις της τίγρης είναι η πιο ανεπτυγμένη;
+Ακοή
+Γεύση
+Όσφρηση
+Όραση
+Τί θεμελίωσε ο Sigmund Freud;
+Ψυχανάλυση
+Γεωμετρία
+Βοτανική
+Αρχαιολογία
+Ποιός ήταν ο πρώτος εργοδότης του Nikola Tesla στην Νέα Υόρκη;
+Thomas Alva Edison
+Robert Lane
+Benjamin Vale
+John Pierpont Morgan
+Πότε ανακαλύφθηκε ο Πλούτωνας;
+1930
+1900
+1850
+1630
+Ποιός είναι ο αριθμός των δαχτυλιδιών του Κρόνου;
+Επτά
+Τρία
+Έξι
+Τέσσερα
+Πότε ο Neil Armstrong πάτησε στην Σελήνη;
+20 Ιουλίου 1969
+16 Οκτωβρίου 1967
+15 Νοεμβρίου 1968
+26 Μαρτίου 1972
+Πώς αναφέρεται μερικές φορές ο Άρης;
+Κόκκινος Πλανήτης
+Πράσινος Πλανήτης
+Μπλέ Πλανήτης
+Κίτρινος Πλανήτης
+Πότε ο Isaac Newton δημοσίευσε την Philosophiae Naturalis Principia Mathematica;
+1687
+1685
+1680
+1660
+Για ποιό λόγο ο Jack Kilby κέρδισε Nobel Φυσικής;
+Ανάπτυξη ολοκληρωμένων κυκλωμάτων
+Ανακάλυψη του Νετρίνου
+Εντοπισμό δυαδικών πάλσαρ
+Ανακάλυψη των Κουάρκ
+Ποιά είναι η αυτοβιογραφία του Joseph Edward Murray;
+Surgery of the Soul
+Amazing Grace
+Darkness of the Soul
+I Have Overcome
+Ποιό ήταν το κωδικό όνομα των ερευνητικών εργασιών των ΗΠΑ για την ατομική βόμβα;
+Manhattan Project
+Operation Red Rose
+Operation Black Thunder
+Arizona Project
+Ποιός είναι ο συνολικός αριθμός των δοντιών ενός ελέφαντα;
+24
+16
+12
+32
+Ποιά ήταν η αποστολή του Apollo 11;
+Εκτέλεση μιας επανδρωμένης σεληνιακής προσγείωσης και επιστροφή
+Εκσκαφή για χρυσό
+Κατάκτηση του φεγγαριού για τις ΗΠΑ
+Χτίσιμο σπιτιών στο φεγγάρι
+Η Ανταρκτική έχει δύο σημασίες. Η μία είναι «Απέναντι στην Αρκτική». Ποιά είναι η δεύτερη σημασία;
+Απέναντι στα βόρεια
+Απέναντι στα ανατολικά
+Απέναντι στα νότια
+Απέναντι στα δυτικά
+Πότε ο Albert Einstein κέρδισε Nobel Φυσικής;
+1921
+1928
+1922
+1926
+Ποια αετός παραμονεύει βραδύποδες και πιθήκους;
+Άρπυια
+Θαλασσαετός
+Καυκάσιος Αετός
+Φιδαετός
+Ποιά σκυλιά χρησιμοποιούνται για κυνήγι;
+Κυνηγόσκυλα
+Χάσκυ
+Τεριέ
+Κόλλεϊ
+Πού συζυτήθηκε η Θεωρία της Εξέλιξης στις 30 Ιουνίου 1960;
+Πανεπιστήμιο της Οξφόρδης
+Παλάτι του Μπάκιγχαμ
+Μουσείο του Λούβρου
+Παλάτι των Βερσαλλιών
+Πόσες εφευρέσεις είναι πατενταρισμένες από τον Thomas Alva Edison;
+1093
+997
+500
+1100
+Ποιά ήταν η πρώτη ταινία του Bruce Lee με σημαντικό ρόλο;
+The Big Boss
+The Game of Death
+Return of the Dragon
+Way of the Dragon
+Πότε κυκλοφόρησε το Dracula με πρωταγωνιστή των Cristopher Lee;
+1958
+1952
+1946
+1948
+Ποιός ερμήνευσε τον χαρακτήρα του Superman στις ταινίες Superman, Superman I, Superman II, Superman III και Superman IV: The Quest for Peace;
+Christopher Reeve
+Sylvester Stallone
+Arnold Schwarzenegger
+Kurt Russell
+Ποιά ήταν η πρώτη ταινία Marlon Brando ως ηθοποιός;
+The Men
+A Flag is Born
+Candida
+Guys and Dolls
+Για ποιά ταινία πήρε η Marilyn Monroe Χρυσή Σφαίρα για την καλύτερη ηθοποιό σε μια κωμωδία; 
+Some Like it Hot
+Gentlemen Prefer Blondes
+Bus Stop
+The Prince and the Showgirl
+Ποιός ήταν ο ρόλος του Marlon Brando στο The Godfather;
+Vito Corleone
+Stanley Kowalski
+Kal El
+Michael Corleone
+Ποιός ήταν ο ρόλος Eli Wallach στο The Good, The Bad and The Ugly;
+Tuco
+Mr. Freeze
+Don Altobello
+Arthur Abbot
+Ποιός κέρδισε το βραβείο Golden Globe Καλύτερης Σκηνοθεσίας για ταινίες του 2008;
+Danny Boyle
+Steven Spielberg
+James Cameron
+Conrad Rooks
+Ποιός απάντησε σε όλες τις ερωτήσεις σωστά στο τηλεπαιχνίδι Kaun Banega Crorepati στην ταινία Slumdog Millionaire;
+Jamal Malik
+Javed Khan
+Salim Malik
+Sohail Khan
+Ποιός ήταν ο συμπρωταγωνιστής Patrick Swayze στο Dirty Dancing;
+Jennifer Grey
+Jennifer Lopez
+Jennifer Love Hewitt
+Jodie Foster
+Για ποιά ταινία η Ελίζαμπεθ Τέιλορ πήρε το πρώτο της Όσκαρ Καλύτερης Ηθοποιού;
+Butterfield 8
+The Last Time I Saw Paris
+Flintstones
+Raintree County
+Σε ποιά ταινία λέγεται η φράση “Some dreams come true. Some don’t. Keep on dreaming.";
+Pretty Woman
+Autumn in New York
+Basic Instinct
+The Runaway Bride
+Ποιός ήταν ο ρόλος της Judy Garland στο The Wizard of Oz;
+Dorothy
+Jane
+Glinda
+Matilda
+Σε ποιά ταινία ο Alec Guinness έπαιξε τον Professor Godbole;
+A Passage to India
+Fall of the Roman Empire
+To Paris with Love
+Eskimo Day
+Στην ταινία Harry Potter, ποιός παίζει τον Hagrid;
+Robbie Coltrane
+John Cleese
+John Coltrane
+Robert DeNiro
+Ποιό ήταν το όνομα του νησιού στο οποίο ανακαλύφθηκε ο King Kong στην πρωτότυπη ταινία του 1933;
+Skull Island
+Borneo
+Monster Island
+Ape Island
+Στην ταινία Who Framed Roger Rabbit, ποιό γενετικά όμοιο ζευγάρι εκτελεί ένα ντουέτο στο πιάνο;
+Donald Duck and Daffy Duck
+Bambi and Bullwinkle
+Garfield and Sylvester
+Speedy Gonzales and Minnie Mouse
+Ο George Clooney και αυτός ο σκηνοθέτης έχουν εργαστεί από κοινού για εκπληκτικές ταινίες όπως "Out of Sight", "Solaris" και το μεγάλο " Ocean's 11". Ποιός είναι;
+Steven Soderbergh
+Robert Rodriguez
+Fred Miller
+Quentin Tarantino
+Ποιά ταινία περιέχει το περίφημο απόσπασμα "Say hello to my little friend";
+Scarface
+The Godfather
+Goodfellas
+Raging Bull
+Ποιά από τις παρακάτω ταινίες δεν είναι sequel;
+Analyze This
+Aliens
+The Dark Knight
+Hannibal
+Ποιός πίνακας του Henri Rousseau εκτέθηκε στο Salon d’Automne το 1905;
+The Hungry Lion
+Judah and Tamar
+The Sleeping Beauty
+Yadivigha’s Dream
+Πού γεννήθηκε ο Leonardo da Vinci;
+Βίντσι
+Γένοβα
+Βενετία
+Μιλάνο
+Ποιός πίνακας του Leonardo da Vinci είναι γνωστή και ως La Gioconda;
+Mona Lisa
+The Last Supper
+The Adoration of the Magi
+Benois Madonna
+Πότε ο Ραφαήλ διακόσμησε την Stanza della Segnatura;
+1508-1511
+1517-1520
+1514-1517
+1504-1507
+Ποιό ήταν το πραγματικό όνομα του Harry Houdini;
+Reginald Scot
+Erik Weisz
+Harry Kellar
+Jean Prevost
+Ποιό πίνακα ο Claude Monet επανέλαβε πολλές φορές;
+Water Lilies
+Under the Birches, Evening
+Scream
+The Duck Pond
+Τί επηρέασε το στύλ του Vincent Van Gogh;
+Ιμπρεσιονισμός
+Εξπρεσιονισμός
+Φαινομενισμός
+Υπαρξισμός
+Ποιές ήταν οι τελευταίες λέξεις του Vincent Van Gogh;
+Η θλίψη θα διαρκέσει για πάντα.
+Το τέλος είναι κοντά.
+Επιστρέφω στο σπίτι μου.
+Οι διακοπές ήρθαν.
+Πού γεννήθηκε ο Max Weber;
+Μπιάλιστοκ
+Μόσχα
+Βόλγκογκραντ
+Σότσι
+Ποιός πίνακας του Edvard Munch δείχνει την άνθηση της αγάπης;
+The Kiss
+The Sick Child
+Ashes
+Jealousy
+Ποιό ήταν το πρώτο πορτραίτο του Henri de Toulouse-Lautrec;
+Moulin Rouge – La Goulue
+La Boheme
+La Blanchisseuse
+Mirliton
+Ποιό ήταν το όνομα βάφτισης του Wolfgang Amadeus Mozart;
+Johannes Chrysostomus Wolfgangus Theophilus Mozart
+Amadeus Mozart
+Petrus Mozart
+Wolfgang Mozart
+Πού έπαιξε ο Johann Sebastian Bach για τον Φρειδερίκο IΙ;
+Πότσνταμ
+Αμβούργο
+Δρέσδη
+Βιέννη
+Ποιό ήταν το μεσαίο όνομα του Elvis Presley;
+Aaron
+Moses
+Joshua
+Caleb
+Πού πέθανε ο Elvis Presley;
+Μέμφις
+Βανκούβερ
+Βερολίνο
+Λος Άντζελες
+Ποιά από τα πατακάτω μυθιστορήματα της σειράς Les Quatres Evangiles του Emile Zola δεν έχουν ολοκληρωθεί;
+Justice
+Fecondite
+Travail
+Verite
+Ποιό μυθιστόρημα βασίζεται στην ζωή του Fyodor Dostoevsky σε μια Σιβηρική φυλακή;
+The House of the Dead
+The Idiot
+Notes from the Underground
+The Eternal Husband
+Πότε ο Pablo Neruda πήρε Όσκαρ Λογοτεχνίας;
+1971
+1969
+1975
+1978
+Ποιός είναι ο πρωταγωνιστής στο Les Miserables;
+Jean Valjean
+Javert
+Myriel
+Marius
+Ποιό είναι το τελευταίο έργο του William Shakespeare?
+The Tempest
+Two Gentlemen from Verona
+Henry V
+As you like it
